@@ -1,0 +1,9 @@
+Após estudado toda a inrodução ao Git e GitHub, 
+feito o download das ferramentas e criado a conta
+no site do GitHub, foi apresentado o primeiro desafio,
+criar um projeto Git e versionar para o GitHub,
+utilizando as funções (git init, git add, git commit,
+git push...) dentre varias outras funções aprendidas
+durante o curso. Assim como também criar um arquivo
+README para que fique facíl o entendimento sobre o
+conteúdo do repositório.
